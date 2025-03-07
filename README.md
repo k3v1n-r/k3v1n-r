@@ -1,17 +1,26 @@
-<h1>Hi, I'm Kevin, an <a href="https://www.linkedin.com/in/kevincabreraroldan/">IT Professional!</a></h1>
+<h1>Hi, I'm Kevin, an <a href="https://www.linkedin.com/in/kevincabreraroldan/">IT Professional!</a></h1> 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>🔹 Automation & Scripting</b>
+  - [PowerShell Scripts for IT Automation](https://github.com/k3v1n-r/powershell-automation)
+  - [Python Script for Log Parsing & Analysis](https://github.com/k3v1n-r/python-log-parser)
+
+- <b>🛠 Help Desk & Ticketing Systems</b>
   - [osTicket: Prerequisites and Installation](https://github.com/k3v1n-r/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/k3v1n-r/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/k3v1n-r/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+
+- <b>☁️ Microsoft Azure & Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/k3v1n-r/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/k3v1n-r/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
+- <b>📡 Networking & System Administration</b>
+  - [Home Lab Setup Using Virtual Machines](https://github.com/k3v1n-r/home-lab-setup)
+  - [System Inventory & Audit Script](https://github.com/k3v1n-r/system-inventory-script)
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h2>🤳 Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/kevincabreraroldan/
+[<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/kevincabreraroldan/  

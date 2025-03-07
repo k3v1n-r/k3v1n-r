@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>🔹 Automation & Scripting</b>
-  - [PowerShell Scripts for IT Automation](https://github.com/k3v1n-r/powershell-automation)
+  - [PowerShell Scripts for IT Automation](https://github.com/k3v1n-r/auto-scripts)
   - [Python Script for Log Parsing & Analysis](https://github.com/k3v1n-r/python-log-parser)
 
 - <b>🛠 Help Desk & Ticketing Systems</b>

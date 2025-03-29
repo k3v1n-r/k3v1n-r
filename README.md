@@ -15,7 +15,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/k3v1n-r/azure-network-protocols)
 
 - <b>📡 Networking & System Administration</b>
-  - [Home Lab Setup Using Virtual Machines](https://github.com/k3v1n-r/home-lab-setup)
+  - [Home Lab Setup Using Virtual Machines](https://github.com/k3v1n-r/homelab-azure)
 
 <h2>🤳 Connect with me:</h2>
 

@@ -13,8 +13,6 @@
 - <b>☁️ Microsoft Azure & Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/k3v1n-r/ad-azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/k3v1n-r/azure-network-protocols)
-
-- <b>📡 Networking & System Administration</b>
   - [Home Lab Setup Using Virtual Machines](https://github.com/k3v1n-r/homelab-azure)
 
 <h2>🤳 Connect with me:</h2>
